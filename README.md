@@ -1,7 +1,5 @@
 
-# About Me 🚀  
-
-### Hi there! 👋 I'm **Khaled Mousa**, a passionate **AI Engineer** and **Data Scientist** with a flair for solving complex problems, exploring innovative technologies, and building impactful solutions.
+## Hi there! 👋 I'm **Khaled Mousa**,**Data Scientist** and **AI Engineer** with a flair for solving complex problems, exploring innovative technologies, and building impactful solutions.
 
 ---
 
